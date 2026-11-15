@@ -4,14 +4,20 @@ Portfolio Manager fetches the latest available prices for stock symbols listed i
 
 ## Setup (one time)
 
-1. Open **PowerShell**.
-2. Go to the Portfolio Manager folder. For example:
+1. Clone from GitHub.
+
+   ```powershell
+   git clone https://github.com/Dandan516/PortfolioManager/
+   ```
+
+2. Open **PowerShell**.
+3. Go to the Portfolio Manager folder. For example:
 
    ```powershell
    cd D:\PortfolioManager
    ```
 
-3. If WSL2 is not installed yet, install Ubuntu by running:
+4. If WSL2 is not installed yet, install Ubuntu by running:
 
    ```powershell
    wsl --install -d Ubuntu
@@ -19,7 +25,7 @@ Portfolio Manager fetches the latest available prices for stock symbols listed i
 
    Follow any Windows prompts to finish installing Ubuntu. You only need to install WSL once.
 
-4. In PowerShell, from the Portfolio Manager folder, prepare the app:
+5. In PowerShell, from the Portfolio Manager folder, prepare the app:
 
    ```powershell
    .\setup.ps1
