@@ -1,0 +1,13 @@
+SAMPLE CONTRACT - REVERSE CONVERTIBLE
+
+Issuer: Example Securities Ltd.
+Product: Reverse Convertible
+Underlying: Example Energy Co. (ENRG)
+Currency: USD
+Trade Date: 2026-09-15
+Maturity Date: 2027-03-15
+Principal Amount: USD 50,000
+
+The investor receives a fixed annual coupon of 12.00 percent, paid monthly. The conversion price is USD 80.00 per ENRG share and the downside barrier is USD 56.00. At maturity, if ENRG is at or above the conversion price, the investor receives cash equal to principal. If ENRG is below the conversion price, the issuer may deliver shares based on the conversion ratio, subject to the final valuation terms.
+
+The investor may lose part or all of the principal if the underlying declines substantially. This document is a fictional sample for software testing only.

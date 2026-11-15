@@ -1,0 +1,13 @@
+SAMPLE CONTRACT - AUTOCALLABLE NOTE
+
+Issuer: Example Bank plc
+ISIN: DEMO00000001
+Underlying: Example Global Equity Index (EGEI)
+Currency: EUR
+Issue Date: 2026-09-15
+Maturity Date: 2029-09-15
+Notional: EUR 100,000
+
+The note pays a conditional quarterly coupon of 2.00 percent if the underlying index is at or above 70 percent of its initial level on the relevant observation date. On each quarterly observation date, if the index is at or above the 100 percent autocall barrier, the note redeems early at 100 percent of nominal value plus the applicable coupon.
+
+If the note is not called, principal at maturity is protected only if the index remains at or above the 60 percent protection barrier. If the barrier is breached, redemption is linked to the negative performance of the index. This document is a fictional sample for software testing only.

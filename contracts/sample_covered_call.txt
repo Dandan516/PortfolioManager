@@ -1,0 +1,12 @@
+SAMPLE CONTRACT - COVERED CALL
+
+Strategy: Covered Call
+Account: DEMO-PORTFOLIO-001
+Underlying: Example Industrial ETF (EIND)
+Currency: USD
+Trade Date: 2026-09-15
+Option Expiry: 2026-12-18
+
+The account holds 1,000 shares of EIND. The investor sells 10 call option contracts on EIND with a strike price of USD 125.00 per share and receives an option premium of USD 2.40 per share. The options are American-style and may be assigned before expiry.
+
+If assigned, the shares will be delivered at the strike price. The premium provides limited downside offset, while gains in the underlying above the strike price are surrendered. Dividends on the shares remain payable to the account unless the shares are assigned. This document is a fictional sample for software testing only.

@@ -1,0 +1,12 @@
+SAMPLE CONTRACT - ACCUMULATOR
+
+Issuer: Example Bank plc
+Contract ID: DEMO-ACC-001
+Underlying: Example Technology Inc. common stock (EXMPL)
+Currency: USD
+Trade Date: 2026-09-15
+Maturity Date: 2027-09-15
+
+The investor agrees to purchase 1,000 shares of EXMPL on each weekly fixing date at the accumulation price of USD 92.00 per share. If the official closing price is at or below the accumulation price, the investor will purchase 2,000 shares for that fixing date. If the closing price reaches or exceeds the knockout level of USD 108.00, the transaction terminates on that fixing date without further delivery obligations.
+
+Settlement is physical delivery against payment in USD. The investor bears the risk of declining market value and may be required to purchase the enhanced quantity. This document is a fictional sample for software testing only.

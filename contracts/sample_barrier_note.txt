@@ -1,0 +1,13 @@
+SAMPLE CONTRACT - BARRIER NOTE
+
+Issuer: Example Bank plc
+Product: Barrier Note
+Underlying: Example Semiconductor Index (ESI)
+Currency: GBP
+Trade Date: 2026-09-15
+Maturity Date: 2028-09-15
+Notional: GBP 25,000
+
+The note has an initial index level of 4,000, a strike level of 4,000, and a knock-in barrier at 2,400. The barrier is monitored continuously during the term. If the barrier is never breached, the investor receives principal plus the positive performance of the index, subject to a maximum return of 18 percent.
+
+If the barrier is breached, the maturity payment is determined by the final index performance and may be less than principal. Settlement is in cash. This document is a fictional sample for software testing only.
